@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory - PvP</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+
+    <h1>Apex Legends Memory Card Game - PvP</h1>
+
+    <!-- main div for the game -->
+    <div class="col-24">
+        <!-- back to index page button -->
+        <div class="actions">
+            <a class="startmenu" href="index.html">Home Page</a>
+        </div>
+        <!-- displays current score -->
+        <h2>Current score</h2>
+        <p><span class="score1 score"></span><span class="score2 score"></span></p>
+
+        <!-- displays the winner -->
+        <div class="winner-div">
+        </div>
+
+        <!-- restart button -->
+        <div class="actions">
+            <button onclick="restart()">Restart</button>
+        </div>
+
+        <!--  game div/play area -->
+        <div class="grid-container"></div>
+
+    </div>
+        <div class="col-24">
+            <!-- scoreboard -->
+            <div class="scoreboard-div">
+
+                <div class="scoreboard">
+                </div>
+            </div>
+        </div>
+
+
+
+            <!-- javascript file for game logic, current score, restart, winner div and restart -->
+    <script src="javascript/pvp.js"></script>
+
+    <div class="col-24 footer">
+        <p class="footer-text">This website is not affiliated with Electronic Arts Inc. (EA) or Respawn Entertainment, LLC. Made in accordance with Electronic Arts (EA) <a href="https://www.ea.com/legal/user-agreement">User Agreement</a> and <a href="https://www.ea.com/commitments/positive-play/charter">Positive Play Charter.</a></p>
+    </div>
+
+
+</body>
+</html>

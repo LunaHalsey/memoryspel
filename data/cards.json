@@ -1,0 +1,98 @@
+[
+    {
+        "image": "./assets/card-imgs/ash.png",
+        "name": "ash"
+    },
+    {
+        "image": "./assets/card-imgs/ballistic.png",
+        "name": "ballistic"
+    },
+    {
+        "image": "./assets/card-imgs/bangalore.png",
+        "name": "bangalore"
+    },
+    {
+        "image": "./assets/card-imgs/bloodhound.png",
+        "name": "bloodhound"
+    },
+    {
+        "image": "./assets/card-imgs/catalyst.png",
+        "name": "catalyst"
+    },
+    {
+        "image": "./assets/card-imgs/caustic.png",
+        "name": "caustic"
+    },
+    {
+        "image": "./assets/card-imgs/conduit.png",
+        "name": "conduit"
+    },
+    {
+        "image": "./assets/card-imgs/crypto.png",
+        "name": "crypto"
+    },
+    {
+        "image": "./assets/card-imgs/fuse.png",
+        "name": "fuse"
+    },
+    {
+        "image": "./assets/card-imgs/gibraltar.png",
+        "name": "gibraltar"
+    },
+    {
+        "image": "./assets/card-imgs/horizon.png",
+        "name": "horizon"
+    },
+    {
+        "image": "./assets/card-imgs/lifeline.png",
+        "name": "lifeline"
+    },
+    {
+        "image": "./assets/card-imgs/loba.png",
+        "name": "loba"
+    },
+    {
+        "image": "./assets/card-imgs/mad-maggie.png",
+        "name": "mad-maggie"
+    },
+    {
+        "image": "./assets/card-imgs/mirage.png",
+        "name": "mirage"
+    },
+    {
+        "image": "./assets/card-imgs/newcastle.png",
+        "name": "newcastle"
+    },
+    {
+        "image": "./assets/card-imgs/octane.png",
+        "name": "octane"
+    },
+    {
+        "image": "./assets/card-imgs/pathfinder.png",
+        "name": "pathfinder"
+    },
+    {
+        "image": "./assets/card-imgs/rampart.png",
+        "name": "rampart"
+    },
+    {
+        "image": "./assets/card-imgs/revenant.png",
+        "name": "revenant"
+    },
+    {
+        "image": "./assets/card-imgs/seer.png",
+        "name": "seer"
+    },
+    {
+        "image": "./assets/card-imgs/valkyrie.png",
+        "name": "valkyrie"
+    },
+    {
+        "image": "./assets/card-imgs/vantage.png",
+        "name": "vantage"
+    },
+    {
+        "image": "./assets/card-imgs/wattson.png",
+        "name": "wattson"
+    }
+]
